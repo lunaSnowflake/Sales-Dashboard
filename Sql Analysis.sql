@@ -61,3 +61,9 @@ FROM(
 						FROM FactOnlineSales
 						WHERE ProductKey = @Product_A) and ProductKey = @Product_B
 ) as f
+
+
+
+Select *
+from DimStore
+Where 
