@@ -9,15 +9,19 @@
 
 | <div style="width:290px"></div> | |
 | --------------------------------------- | ------------------------------------- |
-| ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e) | <h3>Dashboard</h3> <br/><br/> |
-| <h3>Basket Analysis</h3> <br/><br/> | ![Basket Analysis](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/a2c8031d-3683-4b48-8565-c91ba50b43fb) |
-| ![Filter Pane](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/a779a9c4-2079-40a5-bcac-911ceea111f7) | <h3>Filter Pane</h3> <br/><br/> |
-| <h3>Product Details</h3> <br/><br/> | ![Product Details](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/35cf77aa-f259-41c7-a420-be20d25b313a) |
-| ![Store Details](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/d1b4a7e6-658c-4eaf-a4f3-d0463c634295) | <h3>Store Details</h3> <br/><br/> |
+| ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e) | <div align="center"><h3>Dashboard</h3><div> <br/><br/> |
+| <div align="center"><h3>Basket Analysis</h3><div> <br/><br/> | ![Basket Analysis](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/a2c8031d-3683-4b48-8565-c91ba50b43fb) |
+| ![Filter Pane](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/a779a9c4-2079-40a5-bcac-911ceea111f7) | <div align="center"><h3>Filter Pane</h3><div> <br/><br/> |
+| <div align="center"><h3>Product Details</h3><div> <br/><br/> | ![Product Details](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/35cf77aa-f259-41c7-a420-be20d25b313a) |
+| ![Store Details](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/d1b4a7e6-658c-4eaf-a4f3-d0463c634295) | <div align="center"><h3>Store Details</h3><div> <br/><br/> |
 
-### Acknowledgements:
+### 🌟 Acknowledgements:
 The Data can be found here [Microsoft Contoso SQL Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279) <br/>
 The Awesome icons used in the report can be found here [FlatIcons](https://www.flaticon.com/) <br/>
+
+## 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 💫 About Me:
 ![Dev Gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif) <br/>
