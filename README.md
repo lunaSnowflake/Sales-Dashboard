@@ -19,6 +19,9 @@
 The Data can be found here [Microsoft Contoso SQL Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279) <br/>
 The Awesome icons used in the report can be found here [FlatIcons](https://www.flaticon.com/) <br/>
 
+I am open to any suggestions, connect with me anywhere! <br/>
+Also, I would appreciate it if I can get a star for this repository from your side. ☺
+
 ## 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
