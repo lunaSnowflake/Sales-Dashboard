@@ -1,5 +1,7 @@
 # Sales Dashboard
 
+![Report Architecture](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/3212767f-393b-473a-b834-c8d7ba72509e)
+
 ## Introduction
 - Designed and developed a comprehensive Sales Dashboard to provide a real-time view of sales performance and key metrics. Leveraging the data visualization tool Power BI, I transformed raw sales data into interactive and insightful visualizations.
 - The data was loaded from an SQL endpoint after extensive exploration, the data was Extracted Transformed, and Loaded ETL using Power Query.
